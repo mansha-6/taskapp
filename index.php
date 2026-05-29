@@ -49,6 +49,12 @@ class="w-full bg-indigo-600 hover:bg-indigo-700 text-white p-4 rounded-xl font-b
 Sign In
 </button>
 
+<div class="text-center mt-6">
+    <a href="register.php" class="text-white text-sm hover:underline font-semibold transition">
+        Don't have an account? Sign Up
+    </a>
+</div>
+
 </form>
 
 </div>
