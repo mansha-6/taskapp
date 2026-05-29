@@ -20,3 +20,7 @@ Desktop.ini
 # Sensitive config file
 config.php
 
+# Local database schema
+loginform.sql
+
+
