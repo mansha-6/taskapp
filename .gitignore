@@ -16,3 +16,7 @@ Desktop.ini
 *.njsproj
 *.sln
 *.swp
+
+# Sensitive config file
+config.php
+
